@@ -224,7 +224,7 @@
 		<div class="contenedor">
 			<section> 
 				<h1>Ejemplo</h1>
-				<p> Este es un ejemplo de una secci&oacute;n b&aacute;sica de la p&aacute;gina. </p>
+				<p> Este es un ejemplo m&aacute;s de una secci&oacute;n b&aacute;sica de la p&aacute;gina. </p>
 			</section>
 
 			<footer>
